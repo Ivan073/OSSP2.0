@@ -1,0 +1,3 @@
+﻿  Minesweeper.cpp
+D:\Programming\BSUIR\OSSP\LW1,2\Minesweeper\Minesweeper\Minesweeper.cpp(18,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Minesweeper.vcxproj -> D:\Programming\BSUIR\OSSP\LW1,2\Minesweeper\x64\Debug\Minesweeper.exe
