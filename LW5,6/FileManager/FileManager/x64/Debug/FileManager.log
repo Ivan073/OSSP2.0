@@ -1,0 +1,6 @@
+﻿  FileManager.cpp
+D:\Programming\BSUIR\OSSP\LW5,6\FileManager\FileManager\FileManager.cpp(257,30): warning C4244: 'initializing': conversion from 'LRESULT' to 'DWORD', possible loss of data
+D:\Programming\BSUIR\OSSP\LW5,6\FileManager\FileManager\FileManager.cpp(258,31): warning C4244: 'initializing': conversion from 'LRESULT' to 'DWORD', possible loss of data
+D:\Programming\BSUIR\OSSP\LW5,6\FileManager\FileManager\FileManager.cpp(393,23): warning C4244: 'initializing': conversion from 'LRESULT' to 'int', possible loss of data
+D:\Programming\BSUIR\OSSP\LW5,6\FileManager\FileManager\FileManager.cpp(587,54): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+  FileManager.vcxproj -> D:\Programming\BSUIR\OSSP\LW5,6\FileManager\x64\Debug\FileManager.exe

@@ -1,0 +1,4 @@
+﻿  FileManager.cpp
+D:\Programming\BSUIR\OSSP\LW4\FileManager\FileManager\FileManager.cpp(348,23): warning C4244: инициализация: преобразование "LRESULT" в "int", возможна потеря данных
+D:\Programming\BSUIR\OSSP\LW4\FileManager\FileManager\FileManager.cpp(522,54): warning C4267: аргумент: преобразование из "size_t" в "DWORD"; возможна потеря данных
+  FileManager.vcxproj -> D:\Programming\BSUIR\OSSP\LW4\FileManager\x64\Debug\FileManager.exe

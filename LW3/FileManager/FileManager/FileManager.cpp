@@ -15,6 +15,7 @@ using namespace std;
 
 HWND mainWindow;
 HWND pathEdit;
+HWND priorityEdit;
 HWND selectButton;
 HHOOK hHook;
 wstring filePath;   //путь файла у которого открыто контекстное меню
