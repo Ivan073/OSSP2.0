@@ -1,0 +1,8 @@
+﻿  LW7,8Server.cpp
+D:\Programming\BSUIR\OSSP\LW7,8\LW7,8Server\LW7,8Server\LW7,8Server\LW7,8Server.cpp(36,54): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Programming\BSUIR\OSSP\LW7,8\LW7,8Server\LW7,8Server\LW7,8Server\LW7,8Server.cpp(40,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\Programming\BSUIR\OSSP\LW7,8\LW7,8Server\LW7,8Server\LW7,8Server\LW7,8Server.cpp(45,62): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Programming\BSUIR\OSSP\LW7,8\LW7,8Server\LW7,8Server\LW7,8Server\LW7,8Server.cpp(66,62): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Programming\BSUIR\OSSP\LW7,8\LW7,8Server\LW7,8Server\LW7,8Server\LW7,8Server.cpp(85,26): warning C4101: 'ClientSocket': unreferenced local variable
+D:\Programming\BSUIR\OSSP\LW7,8\LW7,8Server\LW7,8Server\LW7,8Server\LW7,8Server.cpp(88,10): warning C4101: 'buffer': unreferenced local variable
+  LW7,8Server.vcxproj -> D:\Programming\BSUIR\OSSP\LW7,8\LW7,8Server\LW7,8Server\x64\Debug\LW7,8Server.exe
